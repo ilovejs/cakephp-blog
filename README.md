@@ -3,6 +3,8 @@ CakePHP
 Bitnami setup guides:
 http://wiki.bitnami.com/Components/PHP_Frameworks/CakePHP
 
+cakephp cn:
+http://www.cakephp.cn/forum.php
 Some Handy Links
 ----------------
 
